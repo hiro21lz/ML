@@ -1,0 +1,17 @@
+make text by command line
+command is ..
+cat > sample.txt
+if you finish the text, you write down bellow
+ls -l sample.txt
+
+q
+quit()
+
+
+
+
+
+
+
+
+
